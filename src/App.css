@@ -1,0 +1,42 @@
+html { 
+  scroll-behavior: smooth;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 10px;
+}
+
+.list-item {
+  order: 10;
+}
+
+
+.pkm-img {
+  width: 250px;
+  height: 250px;
+  border-radius: 20px;
+}
+
+
+ol {
+  list-style-type: none;
+}
+
+.section-div {
+  height: 420px;
+}
+
+.scrollable {
+  height: 30vh;
+}
+
+.pkm-name {
+  text-transform: capitalize;
+  -webkit-text-stroke-width: thin;
+  padding-left: 35%;
+}
