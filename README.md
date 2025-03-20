@@ -13,3 +13,12 @@ npm install
 
 npm run dev
 ```
+These are the screenshots of the project
+
+![alt text](https://res.cloudinary.com/dzhfwgpoy/image/upload/v1742489077/v1_pcante.png)
+
+![alt text](https://res.cloudinary.com/dzhfwgpoy/image/upload/v1742489078/v2_fd8upt.png)
+
+![alt text](https://res.cloudinary.com/dzhfwgpoy/image/upload/v1742489080/v3_rqbju0.png)
+
+![alt text](https://res.cloudinary.com/dzhfwgpoy/image/upload/v1742489081/v4_evxtp1.png)
